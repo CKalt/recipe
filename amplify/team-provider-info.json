@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-recipes-staging-140711-authRole",
+      "UnauthRoleArn": "arn:aws:iam::871816477357:role/amplify-recipes-staging-140711-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::871816477357:role/amplify-recipes-staging-140711-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-recipes-staging-140711-deployment",
+      "UnauthRoleName": "amplify-recipes-staging-140711-unauthRole",
+      "StackName": "amplify-recipes-staging-140711",
+      "StackId": "arn:aws:cloudformation:us-east-1:871816477357:stack/amplify-recipes-staging-140711/8579c470-bdba-11ed-ada3-0a176ba2988f",
+      "AmplifyAppId": "d2pcsvkqe69yhu"
+    }
+  }
+}
